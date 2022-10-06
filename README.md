@@ -59,7 +59,7 @@ Irei analisar os dados utilizando Python(Pandas, Matplotlib, Seaborn)
 ![comparativo_evolução_atletas](https://user-images.githubusercontent.com/75284489/194331061-0a9d11b1-58f1-4510-852e-154c0735b1f7.png)
 
 
-### E com relação ao share de medalhas ? Será que a porça de medalhas pertencente ao Top 3 diminuiu ?
+## E com relação ao share de medalhas ? Será que a porça de medalhas pertencente ao Top 3 diminuiu ?
 
 ![share_medalhas](https://user-images.githubusercontent.com/75284489/194331098-64afaba1-a7ec-40d4-8f74-f6589e993d84.png)
 
