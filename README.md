@@ -15,16 +15,16 @@ Neste repositório irei analisar os dados de 120 anos de Olímpiadas (1896-2016)
 É do conhecimento daqueles que acompanham as Olímpiadas há algum tempo, que países como USA, Rússia e China sempre estão no topo do quadro de
 medalhas. 
 
-Será que com o passar dos anos aumentou o número de países que conquistaram pelo menos 1 medalha de ouro ?
-
-Ou melhor, será que o share de medalhas pertencente aos 3 primeiros países do quadro de medalhas diminuiu ? 
+Será que o share de medalhas obtido pelo Top 3 países do quadro de medalhas diminuiu ? 
 Ou seja, será que a porção(%) de medalhas pertencente ao top 3 diminuiu ?
+
+Será que com o passar dos anos aumentou o número de países que conquistaram pelo menos 1 medalha de ouro ?
 
 
 E em relação a participação feminina ? Como é a evolução da participação feminina na equipe olímpica brasileira ? E a nível mundial ?
 
 
-Pretendo responder perguntas como essas neste repositório!
+Pretendo responder perguntas como essas neste notebook!
 
 
 
