@@ -33,7 +33,7 @@ Pretendo responder perguntas como essas neste notebook!
 
 Os dados podem ser encontrados no [Kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
 
-Irei analisar os dados utilizando Python(Pandas, Matplotlib, Seaborn)
+Ferramentas utilizadas: Python(Pandas, Seaborn)
 
 
 ## Alguns resultados:
