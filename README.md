@@ -38,38 +38,29 @@ Ferramentas utilizadas: Python(Pandas, Seaborn)
 
 ## Alguns resultados:
 
-### Como é a evolução do número de atletas em 120 anos de Olímpiadas ?
-
-![num_atletas_mundo](https://user-images.githubusercontent.com/75284489/194331083-e7a65d31-53f7-4508-baf5-4eb1dc1def08.png)
-
-![evolucao_atletas_mundo](https://user-images.githubusercontent.com/75284489/194331076-05c79e10-b2f6-479e-a7fb-0a566dbdefb3.png)
-
-##### Evolução da proporção de atletas mulheres
-
-![prop_atletas_mundo_mulheres](https://user-images.githubusercontent.com/75284489/194331094-759e1546-7e0d-43dc-9a7a-e8ad7571b5ea.png)
-
-### Como é a evolução do número de atletas na equipe olímpica brasileira ?
-
-![num_atletas_brasil](https://user-images.githubusercontent.com/75284489/194331079-2a99d3f5-13c1-45d1-a06e-36badc1b30df.png)
-
-![evolucao_atletas_brasil](https://user-images.githubusercontent.com/75284489/194331072-21110a6f-20af-4c62-88d9-99cf9f9379b5.png)
-
-##### Comparativo entre Brasil e Mundo na proporção de atletas mulheres
-
-![comparativo_evolução_atletas](https://user-images.githubusercontent.com/75284489/194331061-0a9d11b1-58f1-4510-852e-154c0735b1f7.png)
+Os gráficos completos e análises podem ser encontrados no notebook!
 
 
-## E com relação ao share de medalhas ? Será que a porça de medalhas pertencente ao Top 3 diminuiu ?
+Será que o Share/Porção de medalhas obtida pelo Top 3 países do quadro de medalhas diminuiu com o passar dos anos ?
 
-![share_medalhas](https://user-images.githubusercontent.com/75284489/194331098-64afaba1-a7ec-40d4-8f74-f6589e993d84.png)
+![share_medalhas](https://user-images.githubusercontent.com/75284489/221960503-d211d498-9b8b-494e-a20a-fb6e1d8eb2c7.png)
 
-### Comparativo entre o número total de medalhas e o número obtido pelo Top 3
+![comp_medalhas](https://user-images.githubusercontent.com/75284489/221960489-cbbc6e65-6af2-42fa-a759-fe2cbee15730.png)
 
-![comparativo_medalhas](https://user-images.githubusercontent.com/75284489/194331068-e836a70c-62d0-4d90-be8d-060fc2f80caa.png)
 
-### Qual o número de países que conquistaram pelo menos 1 medalha de ouro ?
+E com relação ao número de países ? Será que aumentou o número de países que conquistaram pelo menos 1 medalha de ouro ?
 
-![num_paises_ouro](https://user-images.githubusercontent.com/75284489/194331087-c25a0764-0141-488c-ac1d-3b910fdc0dbf.png)
+
+![uma_medalha](https://user-images.githubusercontent.com/75284489/221960505-62b6363a-f6ca-4431-ad2c-d307c408b523.png)
+
+
+Como é a evolução da participação feminina nos Jogos Olímpicos ?
+
+
+![Evolução do número de atletas](https://user-images.githubusercontent.com/75284489/221960497-8cbef9a9-be94-41d2-b021-3420fff111fb.png)
+
+![proporcao_mulheres](https://user-images.githubusercontent.com/75284489/221960500-27a31b02-f371-4957-9eee-0af8b9a0519c.png)
+
 
 
 
